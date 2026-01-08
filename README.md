@@ -57,6 +57,7 @@ I don't just write code; I design systems and ship production-grade products.
   <a href="https://www.linkedin.com/in/eder-pereda/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <br />
+   <br />
+   <br />
   <i>Let's build scalable software together.</i>
 </div>
